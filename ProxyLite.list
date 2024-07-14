@@ -7,7 +7,7 @@ DOMAIN-SUFFIX,hamqsl.com
 DOMAIN-KEYWORD,1e100
 
 # 域名匹配
-DOMAIN-SUFFIX,youtubei.googleapis.com,📹 YouTube
+DOMAIN,youtubei.googleapis.com,📹 YouTube
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve

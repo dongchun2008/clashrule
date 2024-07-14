@@ -1,13 +1,13 @@
 # 代理补充列表
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,hamqsl.com,🇺🇲 美国节点
+#DOMAIN-SUFFIX,hamqsl.com,🇺🇲 美国节点
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 
 # 域名匹配
-DOMAIN,youtubei.googleapis.com,📹 YouTube
+#DOMAIN,youtubei.googleapis.com,📹 YouTube
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
